@@ -21,7 +21,6 @@ def rock_paper_scissors(n):
   return permutations
 
 
-
 if __name__ == "__main__":
   if len(sys.argv) > 1:
     num_plays = int(sys.argv[1])
